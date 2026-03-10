@@ -8,12 +8,12 @@ const products = [
     image: "https://images.unsplash.com/photo-1527814050087-3793815479db"
   },
   {
-    id: 2,
-    name: "Smart Watch",
-    description: "Track your fitness easily",
-    price: 149,
-    category: "Electronics",
-    image: "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b"
+  id: 1,
+  name: "Smart Watch",
+  description: "Track your fitness easily",
+  price: 149,
+  category: "Electronics",
+  image: "https://images.unsplash.com/photo-1546868871-7041f2a55e12"
   },
   {
     id: 3,
