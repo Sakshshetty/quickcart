@@ -1,6 +1,32 @@
 .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   background: purple;
+  padding: 15px 40px;
+}
+
+.logo {
   color: white;
-  text-align: center;
-  padding: 20px;
+}
+
+.nav {
+  display: flex;
+  gap: 25px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav a:hover {
+  border-bottom: 2px solid white;
+}
+
+.search {
+  padding: 6px 10px;
+  border-radius: 5px;
+  border: none;
 }
